@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Junholee14\MessengerHub\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class MessengerHubCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'messenger-hub';
 
     public $description = 'My command';
 
